@@ -58,7 +58,8 @@ plot(fw2);
 ```
   # OUTPUT:
 
-<img width="1919" height="1138" alt="Screenshot 2025-11-18 103001" src="https://github.com/user-attachments/assets/7e637773-ce19-4657-9233-ddf36f4d5bd3" />
+<img width="772" height="1280" alt="image" src="https://github.com/user-attachments/assets/25555cb2-4340-4ac9-9243-c2b3175b067a" />
+
 
   
  # RESULT:
